@@ -1,0 +1,14 @@
+https://stackbooks.stackroute.in/course/Developing_Java_Applications_using_GitHubCopilot_CognizantJul23_Sessionrecording
+
+
+https://gitlab.stackroute.in/ghouse/cts_copilot_session_demos
+
+https://gitlab-cgi.stackroute.in/users/Saravanan.1.P/groups
+
+
+Spring Boot Backend repo:
+
+https://github.com/spring-petclinic/spring-petclinic-rest.git
+
+Angular front end repo:
+https://github.com/spring-petclinic/spring-petclinic-angular.git
